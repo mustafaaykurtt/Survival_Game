@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Mustafa
+ *
+ */
+module SurvivalGame {
+}
